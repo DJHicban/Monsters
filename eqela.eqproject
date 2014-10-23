@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Music
+#
+
+projectname: Music
+vendorid: com.hicban
+mainmodule: com.hicban.music
